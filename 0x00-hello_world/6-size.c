@@ -12,7 +12,7 @@ int main(void)
 	float floatType;
 	double doubleType;
 
-	printf("The size of int: %ld\n", sizeof(intergerType));
+	printf("The size of int: %ld\n", sizeof(integerType));
 	printf("The size of char: %ld\n", sizeof(charType));
 	printf("The size of float: %ld\n", sizeof(floatType));
 	printf("The size of double: %ld\n", sizeof(doubleType));
