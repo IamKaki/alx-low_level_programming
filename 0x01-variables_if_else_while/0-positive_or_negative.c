@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/*
+/**
  * main - this is a programm to test else is ladder
  * Return: - this is to return a 0
  */
